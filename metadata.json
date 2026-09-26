@@ -1,0 +1,6 @@
+{
+  "name": "ParkMark",
+  "description": "Salva sua vaga de estacionamento de forma ultrassimples com GPS de alta precisão e navegação a pé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
